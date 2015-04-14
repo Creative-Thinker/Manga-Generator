@@ -1,14 +1,6 @@
 # TO DO
-* MC2 Looking sad (zoomed in)
-* MC2 Looking ANGRY (zoomed in)
-* MC2 Looking angry and saying 'WHO THE !@#$ Let you out of Basement?!' (zoomed in)
-* MC2 Looking 'gay' and saying 'Dayyumm son~'. (zoomed in)
-* MC1 and MC2 staring at each other.
-* MC1 saying 'I don't like you' to MC2
-* MC2 is saying 'I don't like you' to MC1
 * MC1 is saying 'I love you' to MC2
 * MC2 is saying 'I love you' to MC1
-* MC1 is too close to MC2 (MC2 is feeling nervous).
 * MC1 said 'Your an idiot'.
 * MC2 said 'Baka'.
 * MC1 is getting ready to fight MC2
@@ -28,4 +20,11 @@
 * MC1 Looking sad (zoomed in)
 * MC1 Looking ANGRY (zoomed in)
 * MC2 Looking Shocked (zoomed in)
-
+* MC2 Looking sad (zoomed in)
+* MC2 Looking ANGRY (zoomed in)
+* MC2 Looking angry and saying 'I want you to marry me'
+* MC2 Looking 'gay' and saying 'Dayyumm son~'. (zoomed in)
+* MC1 and MC2 staring at each other.
+* MC1 saying 'I don't like you' to MC2
+* MC2 is saying 'come at me' to MC1
+* MC1 is too close to MC2 (MC2 is feeling nervous).
