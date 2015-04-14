@@ -1,5 +1,4 @@
 # TO DO
-* MC1 Looking Shocked (zoomed in)
 * MC1 Looking sad (zoomed in)
 * MC1 Looking ANGRY (zoomed in)
 * MC2 Looking Shocked (zoomed in)
@@ -25,3 +24,7 @@
 * MC2 says 'ok' (IMG 2) (IMG 3)
 * MC1 KICKS MC2 while BLOOD COMING OUT. (IMG 2) (IMG 3)
 * MC2 is dead and MC1 is standing there. (IMG 3)
+
+# DONE
+
+* MC1 Looking Shocked (zoomed in)
