@@ -1,7 +1,4 @@
 # TO DO
-* MC1 Looking sad (zoomed in)
-* MC1 Looking ANGRY (zoomed in)
-* MC2 Looking Shocked (zoomed in)
 * MC2 Looking sad (zoomed in)
 * MC2 Looking ANGRY (zoomed in)
 * MC2 Looking angry and saying 'WHO THE !@#$ Let you out of Basement?!' (zoomed in)
@@ -28,3 +25,7 @@
 # DONE
 
 * MC1 Looking Shocked (zoomed in)
+* MC1 Looking sad (zoomed in)
+* MC1 Looking ANGRY (zoomed in)
+* MC2 Looking Shocked (zoomed in)
+
